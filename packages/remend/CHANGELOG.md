@@ -1,5 +1,11 @@
 # remend
 
+## 1.3.1
+
+### Patch Changes
+
+- 8093f2a: Treat LaTeX paren and bracket math as protected math contexts during emphasis completion.
+
 ## 1.3.0
 
 ### Minor Changes
